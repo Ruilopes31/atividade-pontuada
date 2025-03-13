@@ -1,4 +1,5 @@
 import os
+os.system("clear")
 
 #solicitar dados do usuario
 

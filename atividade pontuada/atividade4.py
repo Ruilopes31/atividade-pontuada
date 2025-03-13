@@ -1,6 +1,16 @@
 import os
 os.system("clear")
 
+
+print(""""
+
+====================== FORMA DE PAGAMENTO ==================================
+\t       \t\tAté 5kg \t\tAcima de 5kg
+1.morango    \t\tR$ 2,50  \t\tR$ 2,50
+2.maçã      \t\tR$ 1,80  \t\tR$ 1,50
+""")
+
+
 #solicitar dados
 
 quantidade_de_morango = int(input("digite a quantidade de morango(em kg):"))
